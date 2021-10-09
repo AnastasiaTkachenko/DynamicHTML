@@ -1,0 +1,55 @@
+h1 {
+   text-align: center;
+}
+
+.container {
+   width: 400px;
+   margin: auto;
+}
+
+.row {
+   display: flex;
+   font-size: 20px;
+   line-height: 30px;
+}
+
+.title {
+   width: 200px;
+   text-align: right;
+}
+
+.value {
+   width: 200px;
+   text-align: right;
+   padding-left: 20px;
+}
+
+.calculate {
+   width: 400px;
+   height: 50px;
+   background-color: green;
+   color: white;
+   font-size: 20px;
+   margin-bottom: 30px;
+}
+
+.productRow {
+   width: 400px;
+   height: 30px;
+}
+.productNumber  {
+   width: 25px;
+}
+.productName{
+   padding-left: 20px;
+   width: 250px;
+}
+
+.productQuantity{
+   float: right;
+   width:40px; 
+}
+
+.products{
+   margin: 40px auto;
+}
